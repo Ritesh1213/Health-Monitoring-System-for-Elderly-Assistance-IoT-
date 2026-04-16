@@ -81,13 +81,10 @@ pip install opencv-python
 Run fall detection script:
 python fall_detection.py
 📸 Demo & Results
+<img width="496" height="307" alt="image" src="https://github.com/user-attachments/assets/a5c54614-d779-44be-a980-a355ae5fe568" />
 
-(Add images/videos of:)
+<img width="344" height="220" alt="image" src="https://github.com/user-attachments/assets/43dca3d1-3395-402c-be8a-148e3cf2f4eb" />
 
-Wearable band
-Sensor readings
-Fall detection test
-CCTV detection output
 🎯 Future Improvements
 📱 Mobile app integration
 🧠 AI/ML-based fall detection
